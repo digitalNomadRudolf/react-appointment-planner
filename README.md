@@ -1,8 +1,8 @@
 # Project Description
 Focused on deepening my understanding of foundational knowledge in React.
 
-Issues and solutions:
- State variables & function implementation using React Context API. In the Codecademy course the props were passed to the Contacts and Appointments components. But the state was not updating due to the Router constantly re-rendering. This was fixed by using useMemo on the router & using context API to extract the state to be used in any component without passing props.
+# Issues and solutions:
+State variables & function implementation using React Context API. In the Codecademy course the props were passed to the Contacts and Appointments components. But the state was not updating due to the Router constantly re-rendering. This was fixed by using useMemo on the router & using context API to extract the state to be used in any component without passing props.
 
 The use of "useMemo" for creating the router in "App.jsx" is a good practice to optimize performance by memoizing the router configuration.
 

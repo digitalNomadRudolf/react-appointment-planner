@@ -1,5 +1,5 @@
 # Project Description
-Focused on deepening my understanding of Redux Toolkit while reinforcing foundational knowledge in React.
+Focused on deepening my understanding of foundational knowledge in React.
 
 # React + Vite
 
